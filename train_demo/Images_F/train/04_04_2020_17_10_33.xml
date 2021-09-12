@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Glass</folder>
+	<filename>04_04_2020_17_10_33.jpeg</filename>
+	<path>C:\Users\Acer\Desktop\Images_F\train\Glass\04_04_2020_17_10_33.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>340</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>147</ymin>
+			<xmax>258</xmax>
+			<ymax>766</ymax>
+		</bndbox>
+	</object>
+</annotation>

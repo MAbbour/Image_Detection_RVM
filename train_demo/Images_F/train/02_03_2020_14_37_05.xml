@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Canette</folder>
+	<filename>02_03_2020_14_37_05.jpeg</filename>
+	<path>C:\Users\Acer\Desktop\Images_F\train\Canette\02_03_2020_14_37_05.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Canette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>496</ymin>
+			<xmax>256</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>

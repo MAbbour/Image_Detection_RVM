@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bouteille_1.5L</folder>
+	<filename>02_03_2020_14_24_11.jpeg</filename>
+	<path>C:\Users\Acer\Desktop\Images_F\train\Bouteille_1.5L\02_03_2020_14_24_11.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bouteille_1.5L</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>128</ymin>
+			<xmax>271</xmax>
+			<ymax>768</ymax>
+		</bndbox>
+	</object>
+</annotation>

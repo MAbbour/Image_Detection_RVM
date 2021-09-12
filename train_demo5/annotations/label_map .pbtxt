@@ -1,0 +1,36 @@
+item {
+    id: 1
+    name: 'Bouteille_0.3L'
+}
+
+item {
+    id: 2
+    name: 'Bouteille_0.5L'
+}
+
+item {
+    id: 3
+    name: 'Bouteille_1.5L'
+}
+
+item {
+    id: 4
+    name: 'Bouteille_1L'
+}
+
+item {
+    id: 5
+    name: 'Bouteille_2L'
+}
+
+item {
+    id: 6
+    name: 'Canette'
+}
+
+
+item {
+    id: 7
+    name: 'Glass'
+}
+
